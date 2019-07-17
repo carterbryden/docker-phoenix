@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTAINER Nikolauska <nikolauska1@gmail.com>
+MAINTAINER Carter Bryden <carter@vie.works>
 
 # Update and install locales
 RUN apt-get update && apt-get upgrade -y && \
